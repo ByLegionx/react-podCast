@@ -1,6 +1,6 @@
 Para inidicar el proyecto:
 
-npm run dev
+- npm run dev
 
 Para iniciar el back end para guardar las llamadas que se realizan y cargar las imagenes:
 
